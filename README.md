@@ -10,9 +10,7 @@ I've worked at <ins>Databricks</ins>, <ins>Datahub</ins>, <ins>Wealthsimple</ins
 **Tech:** Django, Postgres, GraphQL, Apache Airflow \& Spark \
 **Developer Tools:** Kubernetes, Docker, Google Cloud, AWS, Terraform, Git
 
-In my spare time, I'm also building [storagebox](https://storagebox.app/).
-
-Feel free to checkout my [portfolio](https://petemango.me/) and reach out if you think I would be a good addition to your team!
+Feel free to reach out if you think I can bring value to your _engineering_ or _product_ teams!
 
 - Email: p25wang [at] uwaterloo [dot] ca
 - Linkedin: https://www.linkedin.com/in/p25wang/
