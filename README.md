@@ -3,7 +3,7 @@
 
 I'm a third year **Software Engineering** student at the **University of Waterloo**.
 
-I've worked at <ins>Databricks</ins>, <ins>Datahub</ins>, <ins>Wealthsimple</ins>, <ins>Shopify</ins>, <ins>WindRiver</ins> & <ins>Blackberry</ins> using:
+I've worked at <ins>Databricks</ins>, <ins>Shopify</ins> & <ins>Blackberry</ins> using:
 
 **Languages:** Go, Python, C++, Scala, Ruby, SQL \
 **Tech:** Django, Postgres, GraphQL, Apache Airflow \& Spark \
