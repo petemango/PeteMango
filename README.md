@@ -3,8 +3,6 @@
 
 I'm a rising senior **Software Engineering** student at the **University of Waterloo**.
 
-I've worked at <ins>Decagon</ins>, <ins>Databricks</ins>, <ins>Shopify</ins> & <ins>Blackberry</ins> using:
-
 Feel free to reach out if you think I can bring value to your _engineering_ or _product_ teams!
 
 - Email: p25wang [at] uwaterloo [dot] ca
