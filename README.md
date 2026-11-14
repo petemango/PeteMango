@@ -5,10 +5,6 @@ I'm a rising senior **Software Engineering** student at the **University of Wate
 
 I've worked at <ins>Decagon</ins>, <ins>Databricks</ins>, <ins>Shopify</ins> & <ins>Blackberry</ins> using:
 
-**Languages:** Go, Python, C++, Scala, Ruby, SQL \
-**Tech:** Django, Postgres, GraphQL, Apache Airflow \& Spark \
-**Developer Tools:** Kubernetes, Docker, Google Cloud, AWS, Terraform, Git
-
 Feel free to reach out if you think I can bring value to your _engineering_ or _product_ teams!
 
 - Email: p25wang [at] uwaterloo [dot] ca
